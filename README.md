@@ -10,8 +10,7 @@
 - [Questions](#questions)
 
 ## Description <a name="description"></a> 
-This project is a website designed to provide users with links to current and past projects. It was developed using HTML, Bootstrap, JavaScript, CSS. 
- 
+This project is a website designed to provide users with links to current and past projects. It was developed using HTML, TailwindCSS, JavaScript, CSS. 
 
 ## Installation <a name="installation"></a>
     Installation of secondary applications is not necessary to run this application as it is available on a site structured using Render. 
